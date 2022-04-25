@@ -18,4 +18,8 @@ public class Class3 {
 	public void cazzo() {
 		System.out.println("cazzo");
 	}
+	
+	public void test() {
+		System.out.println("test");
+	}
 }
