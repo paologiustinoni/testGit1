@@ -11,4 +11,5 @@ public class Class3 {
 		this.b1 = b1;
 	}
 	
+	public int i;
 }
