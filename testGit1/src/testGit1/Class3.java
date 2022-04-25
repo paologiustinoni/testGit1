@@ -11,4 +11,13 @@ public class Class3 {
 		this.b1 = b1;
 	}
 	
+	public int getI() {
+		return i;
+	}
+
+	public void setI(int i) {
+		this.i = i;
+	}
+
+	private int i;
 }
