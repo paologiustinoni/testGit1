@@ -11,4 +11,7 @@ public class Class3 {
 		this.b1 = b1;
 	}
 	
+	public void printSomething() {
+		System.out.println("print something");
+	}
 }
